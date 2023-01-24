@@ -1,2 +1,3 @@
 # Python-Programs
-these are the programs for part 1
+for any queries comment them in the repositary itself....
+Questions are given in the last
