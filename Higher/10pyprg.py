@@ -1,0 +1,5 @@
+x=input()
+z=x.split()
+z.sort()
+jin=" ".join(z)
+print(jin)
